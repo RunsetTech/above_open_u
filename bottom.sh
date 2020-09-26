@@ -28,11 +28,11 @@ const rateLimit = require("express-rate-limit");
 const app = express()
 
 
- 
+
 app.get('/', function (req, res) {
   res.send('Error: 404')
 })
- 
+
 app.listen(4444)
 
 const limiter = rateLimit({
