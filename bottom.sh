@@ -82,5 +82,5 @@ sudo AUTO_INSTALL=y ./openvpn-install.sh
 # sudo DEBIAN_FRONTEND=noninteractive AUTO_INSTALL=y ./openvpn-install.sh
 # sudo systemctl start openvpn
 cat client.ovpn
-echo nimaaaa
+#echo nimaaaa
 sudo reboot
