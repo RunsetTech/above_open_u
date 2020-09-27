@@ -83,4 +83,3 @@ sudo AUTO_INSTALL=y ./openvpn-install.sh
 # sudo systemctl start openvpn
 cat client.ovpn
 # maybe echo nima
-sudo reboot
