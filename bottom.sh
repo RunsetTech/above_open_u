@@ -1,5 +1,5 @@
 #!/bin/bash
-curl -O https://raw.githubusercontent.com/RunsetTech/openvpn-install-for-multiple-users/master/openvpn-install.sh
+curl -O https://raw.githubusercontent.com/RunsetTech/openvpn_instal_15sub/main/openvpn-install.sh
 chmod +x openvpn-install.sh
 export DEBIAN_FRONTEND=noninteractive
 
