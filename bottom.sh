@@ -16,7 +16,7 @@ mkdir roller
 
 cd roller
 
-sudo npm -init -y
+sudo npm init -y
 
 sudo npm i express
 
